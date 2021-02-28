@@ -1,6 +1,5 @@
 # iCoin
-peer-to-peer.cash 
-mon·o·lith
+mon·o·lista
 
 f71a268917fef83815df0b18aae4137475dab0caa42f24893dbb75d80a6d4ec7
 4060584fccdd5004adad9c4c5ba9afeefb99f7ca5a24cd01989a4cf979d75766
